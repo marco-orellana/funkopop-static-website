@@ -1,5 +1,5 @@
 # funkopop-static-website
-Static responsive e-commerce website made entirely with HTML and CSS.
+Static responsive e-commerce website made entirely with HTML5 and CSS3.
 No libraries, no javascript and no frameworks.
 
 
